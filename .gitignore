@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+# dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+
+# logs and OS/editor junk
+*.log
+.DS_Store
+.vscode/
